@@ -1,0 +1,19 @@
+{
+  "name": "static-heroku-node",
+  "version": "0.0.0",
+  "description": "Static applciation to host vanilla HTML/CSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "foreman start"
+  },
+  "repository": "",
+  "author": "Aditya Bansod (@adityabansod, http://www.adityabansod.net)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.7"
+  },
+  {
+  "engines": {
+    "node": "0.10.x"
+  }
+}
